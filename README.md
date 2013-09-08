@@ -1,6 +1,7 @@
 # five-px
 
-[![NPM version](https://badge.fury.io/js/500px.png)](http://badge.fury.io/js/500px)
+[![NPM version](https://badge.fury.io/js/five-px.png)](http://badge.fury.io/js/five-px)
+[![Build Status](https://travis-ci.org/mjgil/five-px.png)](https://travis-ci.org/mjgil/five-px)
 
 A wrapper for the [500px](http://500px.com) API. At the moment only the functions without Auth are supported. Check out the [500px API page](http://developers.500px.com/).
 
@@ -8,7 +9,7 @@ A wrapper for the [500px](http://500px.com) API. At the moment only the function
 
 (MIT License)
 
-Copyright (c) 2011 Robert Katzki <robert@katzki.de>
+Copyright (c) 2013 Malcom Gilbert <malcomgilbert@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
