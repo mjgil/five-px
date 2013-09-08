@@ -1,4 +1,4 @@
-# node-500px
+# five-px
 
 [![NPM version](https://badge.fury.io/js/500px.png)](http://badge.fury.io/js/500px)
 

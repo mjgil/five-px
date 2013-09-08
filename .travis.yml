@@ -1,7 +1,17 @@
 language: node_js
 node_js:
-  - "0.6"
-  - "0.8"
-  - "0.9"
-  - "0.10"
-  - "0.11"
+- '0.6'
+- '0.8'
+- '0.9'
+- '0.10'
+- '0.11'
+env:
+  matrix:
+  - secure: Ml4Bchx0aWY3CErmzrXZcUpVFsp0qSK0vlxEQjiGD+UmLNoAXmdbrh8lvX4vQH3jKpdqjdTxdf8wym5NbI+ZqsJQ1dTadPltriD6zxuWdavurO09AVhKBa/NwDugIq7psk+S36Ene4cwWhHU1bmCp4+9XdxkU6yV6i2Ad7XIg0A=
+  - secure: Nogo/wuPzs4Ac4Qn3ql5suKg96CYfy0KhkPp/0UQ4v7mjuay2zW/CcldeJndKHTrQ8fF68bzlBjNHqgjf0SqZ5ANNP//k0ToRWqMEhW5k7QibKquXXnz11bp4b9mQDsHJnk7H3FzMGkYSGVaqfD1JUmiJl4nXNuhamzSTXK+f2Y=
+  - secure: bqPBPYDph+R4Xha6XrWozOsdgCGAf9LCqUgbYYsWQYl1ZvKwxIe+NyfPRB9YjHRnmcepDiv23vrN1iBpS/jJKZ5VgggxMchDEye1P8fGcZuVXfcdw/pJ7saHThC3TT+5WQT8DqbC07ZXLarMapqHIX5Fo2zXVdZioW8fPrguBCE=
+  - secure: gUuXIq7HdHzgFoH4yZssXyfwON15PbRjgdRHSjbUlUhGe2h350Vy1wONdqxsibcoo5fIJlSy0RkJC7EXYKGFXfD4aL0rusl40vCgUh6ItRVBb5Yd2Fr5drZhnCV1GgpE79y1svKIczOZ6koLIiHJycNNnzaN/0uer3AWvFo1Ge4=
+  - secure: L+ir0CZJylvDBmizq+J+HVMeGRTxg/ITREw154W5oLEBWFAMQqv5CgWZKSJoN21WyozKTsmbSC0GphZLJ5z3cc2PuVBJQfJZUJtdIQmvRWDFfpQKpHTY2rCjAd+LC69vb9XZYC6SJRxChYoaN/wGCBDXy0RfA3PRMVu+C5m+6bk=
+  - secure: eaRkhkfgGFOPFBw3KPhGXh3VLuBgNCImVV11pSdEluexkpbxZUSZ30tW0+Yy95hMaU54aWNDvWWeJlgk8KLH91z2PEwysq6ATuz8gQ3d1IUpEwDbR+U/xWbuNUeFQUq30HUVBiJP1qwqtCOSDkeP1w3MT7kqw+qx3fcEzCdc0WE=
+  - secure: S0fG1ZgJrkUvUmodayKqOnmiY/G+jG2HaKifrbNojAENFYRbGTk6pdn+RbfTNG6HuB6b9/Euz6vCNESarNogCrCtYFaMXSy/bVcPsRmLhLpFO5xyq9hDduPDBAvw9vVQE7BaBoqvKipMyDIuXH1XvoHYbIvJ8VQhqaEAJrITvOY=
+  - secure: jMRp6Z0rioui3rFZrRZdecqMAiqUfz/7wWfMsBRQNs79lS1PanEIpi/u2bq0DZuAVpbjSePv53Q8j0qQgbDj0zLmShP5QgB6YQhYJI2fwRO5yaMyd/9ZhdT1WR7lnZO4IRTGPIvwP2jRt9YN0WCknpcJomgajxx1oPV3jW8fvKk=
