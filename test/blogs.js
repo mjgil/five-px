@@ -3,7 +3,7 @@ var mocha = require('mocha'),
   fixtures = require('./fixtures'),
   expect  = require('chai').expect,
   config  = require('./config.js'),
-  Blogs = require('../lib/blogs.js').Blogs;
+  Blogs = require('../lib/blogs.js');
 
 describe('Testing GET blogs:', function() {
   var blogs   = new Blogs(config.secrets.consumer_key),

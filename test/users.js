@@ -1,7 +1,7 @@
 var mocha = require('mocha'),
   should  = require('should'),
   config  = require('./config.js'),
-  Users = require('../lib/users.js').Users;
+  Users = require('../lib/users.js');
 
 describe('Testing GET users:', function() {
   var users   = new Users(config.secrets.consumer_key),
